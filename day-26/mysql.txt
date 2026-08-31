@@ -1,0 +1,1 @@
+Learning mysql itself is not that useful

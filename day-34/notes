@@ -1,0 +1,21 @@
+Summary:
+---------
+
+Regex is a powerful way to search, validate, extract, and replace text.
+Python provides regex support through the re module.
+Frequently used functions:
+re.search() → Find the first match
+re.match() → Match from the beginning of the string
+re.findall() → Return all matches
+re.sub() → Replace matches
+re.split() → Split text using a pattern
+
+If you're just starting out, focus on learning these core regex elements:
+
+\d (digits)
+\w (word characters)
+\s (whitespace)
+. (any character)
+*, +, ? (quantifiers)
+[] (character classes)
+^ and $ (start/end anchors)
