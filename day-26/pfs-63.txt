@@ -1,0 +1,1 @@
+We are learning python full stack at codegnan .And the technologies they are providing are python, flask, mysql, html, css, bootstrap, javascript, reactjs, dsa and gen ai
